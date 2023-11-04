@@ -1,0 +1,36 @@
+/* estilos generales*/
+body{
+    margin: 0;
+    background-color: aquamarine;
+}
+
+header{
+    background-color: black;
+    color: white;
+    padding: 3rem 2rem;
+}
+
+#title{
+
+    font-size: 4rem;
+    text-align: center
+
+}
+/* una manera facil de centrar*/
+
+.container{
+
+    width: 400px;
+    margin: 0 auto;
+
+}
+
+.container .post{
+
+    background-color: white ;
+    margin: 1rem 0;
+    border-radius: 10px;
+    padding: 0.25rem;
+    
+
+}
